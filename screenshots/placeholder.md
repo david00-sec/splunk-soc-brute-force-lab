@@ -1,0 +1,3 @@
+screenshots
+
+Create screenshots folder.
